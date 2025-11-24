@@ -137,4 +137,3 @@ def gerar_relatorio_notas(notas: List[Union[int, float]]) -> Dict[str, Union[flo
 O arquivo `resultado_teste_programacao.json` contém todas as respostas compiladas no formato JSON, incluindo as soluções de Lógica Matemática (Questões 01 a 06) e Raciocínio Lógico (Questão 07).
 
 ---
-*Desenvolvido por Manus AI*
